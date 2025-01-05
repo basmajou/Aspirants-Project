@@ -48,9 +48,9 @@ align-items: center;
     margin: auto;
     display: flex;
     flex-direction: column;
-align-items: center;
-justify-content: space-between;
-text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
   }
   .info p{
     margin-top: 20px;
